@@ -1,3 +1,0 @@
-groff -mandoc compiler488.man > compiler488.ps
-
-
